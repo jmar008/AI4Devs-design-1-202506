@@ -1,3 +1,4 @@
+#ChatGPT 4.0
 # LTI - Applicant Tracking System (ATS) del Futuro
 
 ## 1. Descripción breve del software LTI
